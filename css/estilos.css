@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar{
+    background-color: rgba(0,0,0,0)!important;
+    margin-left: 40px;
+}
+
+.banner{    
+    height: 500px;
+    padding: 0;
+}
+
+.form-cadastro{
+    background: rgb(240, 234, 234);
+    height: auto;   
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+.align{
+    margin-left: 30vw;     
+}
+
+.align2{
+    margin-left: 40vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#erroForm{
+    display: none;    
+}
+
